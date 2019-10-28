@@ -1,6 +1,11 @@
-.parent > div {
+.child {
     background: #eee;
+    border: 1px solid #ccc;
+    padding: 10px;
     float: left;
-    width: 48%;
+    width: 23.5%;
     margin-right: 2%;
+}
+.child:last-child {
+    margin-right: 0;
 }
