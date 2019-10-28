@@ -1,1 +1,6 @@
-
+.parent > div {
+    background: #eee;
+    float: left;
+    width: 48%;
+    margin-right: 2%;
+}
