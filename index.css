@@ -5,8 +5,10 @@
     float: left;
     width: 40%;
     margin-right: 2%;
+    dispay: inline
 }
 .child:last-child {
+    dispay: inline;
     margin-right: 0;
 }
 .button {
