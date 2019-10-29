@@ -12,5 +12,5 @@
     margin-right: 0;
 }
 .button {
-    display: inline;
+    display: inline-block;
 }
