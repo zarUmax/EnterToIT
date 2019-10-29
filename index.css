@@ -9,3 +9,6 @@
 .child:last-child {
     margin-right: 0;
 }
+.button {
+    vertical-align: center
+}
