@@ -1,3 +1,7 @@
+.parent {
+    width: auto;
+    margin: auto;
+}
 .child {
     background: #eee;
     border: 1px solid #ccc;
